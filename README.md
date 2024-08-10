@@ -40,6 +40,6 @@ Conclusion :
 
 This work has seamlessly integrated the capabilities of line following and Wi-Fi control in one robotic platform, proving a great potential for the development of versatile, resourceful, and autonomous intelligent systems. The project is done in such a way that it presents the same robot that, on one hand, could be autonomously navigating using line sensors, and on the other hand, can be controlled remotely over a Wi-Fi network. While challenges were encountered in developing this, from sensor calibration to the tuning of the motors, these were dealt with effectively. 
 
-#The result is a system that has the potential to be improved with advanced features like obstacle avoidance, speed control, and image processing.
+The result is a system that has the potential to be improved with advanced features like obstacle avoidance, speed control, and image processing.
 
 This project laid the base for even more advanced robotics applications and valuable experience in embedded systems, control theory, and wireless communication.
